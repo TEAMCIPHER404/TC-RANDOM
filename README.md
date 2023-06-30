@@ -26,4 +26,4 @@
 
 4️⃣ Launch the Tool:
 
-   $ python TC-RANDOM.py
+   $ python RANDOM.py
